@@ -198,4 +198,4 @@ async def buton(ctx):
 
     
 
-bot.run("MTE5MjA0NDQ3NDA3MTc4OTU2OA.Gpx832.O92ZqRHF63SjnJm0ZHqLuEp0jtvLxdWkvJ1teQ")
+bot.run("YOUR TOKEN :) ")
